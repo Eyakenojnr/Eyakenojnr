@@ -3,7 +3,7 @@
 
 - 🔭 I am currently working on **Projects on Python and C++**
 
-- 🌱 I am currently learning **React and SQL**
+- 🌱 I am currently learning **SQL**
 
 - 📫 How to reach me **eyakenojnr@gmail.com**
 
